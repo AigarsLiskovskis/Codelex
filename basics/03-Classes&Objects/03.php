@@ -1,6 +1,6 @@
 <?php
 
-class FuelGauge1
+class FuelGauge
 {
     protected int $fuelLevel;
 
@@ -29,7 +29,7 @@ class FuelGauge1
     }
 }
 
-class Odometer1
+class Odometer
 {
 
     protected int $mileage;
